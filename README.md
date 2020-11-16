@@ -108,7 +108,7 @@ Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
   -  <https://ieee-dataport.org/datasets>
 * Internet Brain Segmentation repository (IBSR) NITRC
   -  <https://www.nitrc.org/projects/ibsr>
-* OASIS- 1,2,3 
+* OASIS- 1,2,3 (csv, text)
   -  <https://www.oasis-brains.org/#data>
 * Whole Brain Atlas( Medical Imaging data slices tours) 
   -  <http://www.med.harvard.edu/AANLIB/home.html>
@@ -116,6 +116,8 @@ Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
   -  <https://www.kaggle.com/vidyakuldeep/brain-tumour-detection-with-cnn-96-accuracy/edit?rvi=1>
 * Kaggle- Brain MRI images for brain tumor detection 
   -  <https://www.kaggle.com/vidyakuldeep/brain-mri-images-for-brain-tumor-detection/>
+* Kaggle -Dementia classification using OASIS(csv, text)
+  -  <https://www.kaggle.com/vidyakuldeep/dementia-classification-compare-classifiers/>
 
 
 ## Video
