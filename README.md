@@ -108,6 +108,14 @@ Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
   -  <https://ieee-dataport.org/datasets>
 * Internet Brain Segmentation repository (IBSR) NITRC
   -  <https://www.nitrc.org/projects/ibsr>
+* OASIS- 1,2,3 
+  -  <https://www.oasis-brains.org/#data>
+* Whole Brain Atlas( Medical Imaging data slices tours) 
+  -  <http://www.med.harvard.edu/AANLIB/home.html>
+* Kaggle- Brain tumor detection with CNN 
+  -  <https://www.kaggle.com/vidyakuldeep/brain-tumour-detection-with-cnn-96-accuracy/edit?rvi=1>
+* Kaggle- Brain MRI images for brain tumor detection 
+  -  <https://www.kaggle.com/vidyakuldeep/brain-mri-images-for-brain-tumor-detection/>
 
 
 ## Video
