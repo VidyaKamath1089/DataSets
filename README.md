@@ -49,7 +49,7 @@ Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
 * Coil-20
   - <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
 * MS COCO
-  - <http://mscoco.org/dataset/#overview>
+  - <https://cocodataset.org/#home>
 * NVIDIA food Image classification
   - <https://github.com/corona10/FoodDataSet>
 * CIFAR-10, CIFAR-100
